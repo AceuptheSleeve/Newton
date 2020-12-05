@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\MatterJSBoilerPlate-master (1)"
+		},
+		{
+			"path": "..\\..\\..\\plucking-mangoes-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "plucking-mangoes-main"
+	}
+}
